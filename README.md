@@ -16,4 +16,4 @@ Images are build and uploaded to [github releases](https://github.com/manjaro-ar
 ## building
 
 1. check out the arm-profiles
-2. `sudo buildarmimg -d m5 -e $EDITION`
+2. `sudo buildarmimg -d rock3a -e $EDITION`
